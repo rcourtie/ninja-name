@@ -1,0 +1,22 @@
+{
+  "name": "ninja-name",
+  "version": "1.0.0",
+  "description": "Get the ninja version of your name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcourtie/ninja-name.git"
+  },
+  "keywords": [
+    "ninja"
+  ],
+  "author": "Rodolphe Courtier <rodolphe.courtier@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/rcourtie/ninja-name/issues"
+  },
+  "homepage": "https://github.com/rcourtie/ninja-name#readme"
+}
