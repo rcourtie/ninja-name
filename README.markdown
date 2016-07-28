@@ -6,6 +6,7 @@ Get the ninja version of your name.
 
 ```
 const ninja = require('ninja-name');
+const name = 'rodolphe';
 
-const ninjaName = ninja('rodolphe'); // returns 'shimotemotanoriku';
+const ninjaName = ninja(name); // returns 'shimotemotanoriku';
 ```
